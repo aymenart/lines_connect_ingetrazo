@@ -1,0 +1,7 @@
+{
+  "id": "lines_connect",
+  "version": "1.0.0",
+  "name": "Lines Connect",
+  "author": "Aymen Alhaddad",
+  "description": "Professional architectural CAD tools to connect, extend, fillet, and close gaps between edges in 3D."
+}
